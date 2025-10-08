@@ -3,5 +3,3 @@ Naga
 sriram
 mahesh
 vijay
-Bala
-Dinesh
